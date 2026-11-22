@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Black Pepper (Piper nigrum)",
+    "description": "Premium Malabar black pepper, hand-picked at peak ripeness. Known for its intense aroma and bold flavor.",
+    "price": "From $25",
+    "category": "spices",
+    "subcategory": "whole_spices",
+    "origin": "Kerala, India",
+    "unit": "kg",
+    "stock": 150,
+    "minOrderQuantity": 5
+  },
+  {
+    "name": "Green Cardamom (Elettaria cardamomum)",
+    "description": "Aromatic green cardamom pods from the Western Ghats. The \"Queen of Spices\" with distinctive sweet fragrance.",
+    "price": "From $45",
+    "category": "spices",
+    "subcategory": "whole_spices",
+    "origin": "Kerala, Karnataka, India",
+    "unit": "kg",
+    "stock": 80,
+    "minOrderQuantity": 2
+  },
+  {
+    "name": "Clove (Syzygium aromaticum)",
+    "description": "Premium quality cloves with intense aroma and warm, sweet flavor. Hand-picked and sun-dried to perfection.",
+    "price": "From $35",
+    "category": "spices",
+    "subcategory": "whole_spices",
+    "origin": "Kerala, Tamil Nadu, India",
+    "unit": "kg",
+    "stock": 100,
+    "minOrderQuantity": 3
+  },
+  {
+    "name": "Coriander Seeds (Coriandrum sativum)",
+    "description": "High-quality coriander seeds with fresh, citrusy aroma. Essential for Indian cooking and spice blends.",
+    "price": "From $8",
+    "category": "spices",
+    "subcategory": "whole_spices",
+    "origin": "Rajasthan, Gujarat, India",
+    "unit": "kg",
+    "stock": 200,
+    "minOrderQuantity": 10
+  },
+  {
+    "name": "Fennel Seeds (Foeniculum vulgare)",
+    "description": "Sweet and aromatic fennel seeds, perfect for digestive blends and culinary applications.",
+    "price": "From $12",
+    "category": "spices",
+    "subcategory": "whole_spices",
+    "origin": "Gujarat, Rajasthan, India",
+    "unit": "kg",
+    "stock": 180,
+    "minOrderQuantity": 5
+  },
+  {
+    "name": "Fenugreek Seeds (Trigonella foenum-graecum)",
+    "description": "Premium fenugreek seeds with distinctive maple-like aroma. Rich in nutrients and flavor compounds.",
+    "price": "From $6",
+    "category": "spices",
+    "subcategory": "whole_spices",
+    "origin": "Rajasthan, Madhya Pradesh, India",
+    "unit": "kg",
+    "stock": 220,
+    "minOrderQuantity": 10
+  },
+  {
+    "name": "Turmeric Powder (Curcuma longa)",
+    "description": "High-curcumin organic turmeric powder, sun-dried and stone-ground. Valued for its health benefits and vibrant color.",
+    "price": "From $8",
+    "category": "spices",
+    "subcategory": "ground_spices",
+    "origin": "Tamil Nadu, Andhra Pradesh, India",
+    "unit": "kg",
+    "stock": 300,
+    "minOrderQuantity": 10
+  },
+  {
+    "name": "Red Chili Powder (Capsicum species)",
+    "description": "Vibrant red chili powder with perfect heat balance. Ground from premium quality dried chilies.",
+    "price": "From $10",
+    "category": "spices",
+    "subcategory": "ground_spices",
+    "origin": "Andhra Pradesh, Karnataka, India",
+    "unit": "kg",
+    "stock": 250,
+    "minOrderQuantity": 10
+  },
+  {
+    "name": "Ginger Powder (Zingiber officinale)",
+    "description": "Premium dried ginger powder with warm, spicy flavor. Perfect for culinary and medicinal applications.",
+    "price": "From $15",
+    "category": "spices",
+    "subcategory": "ground_spices",
+    "origin": "Kerala, Karnataka, India",
+    "unit": "kg",
+    "stock": 120,
+    "minOrderQuantity": 5
+  },
+  {
+    "name": "Kashmir Saffron (Crocus sativus)",
+    "description": "World's finest saffron from Kashmir valleys. Hand-harvested premium quality threads with intense aroma and color.",
+    "price": "From $3,500",
+    "category": "spices",
+    "subcategory": "luxury_spice",
+    "origin": "Kashmir, India",
+    "unit": "kg",
+    "stock": 5,
+    "minOrderQuantity": 1
+  },
+  {
+    "name": "Finger Millet (Ragi/Nachni)",
+    "description": "Nutritious finger millet rich in calcium and iron. Traditional superfood grain perfect for health-conscious consumers.",
+    "price": "From $4",
+    "category": "millets",
+    "subcategory": "traditional_grains",
+    "origin": "Karnataka, Tamil Nadu, India",
+    "unit": "kg",
+    "stock": 500,
+    "minOrderQuantity": 25
+  },
+  {
+    "name": "Pearl Millet (Bajra)",
+    "description": "High-protein pearl millet, drought-resistant grain with excellent nutritional profile. Gluten-free alternative.",
+    "price": "From $3",
+    "category": "millets",
+    "subcategory": "traditional_grains",
+    "origin": "Rajasthan, Gujarat, India",
+    "unit": "kg",
+    "stock": 800,
+    "minOrderQuantity": 50
+  },
+  {
+    "name": "Foxtail Millet (Kangni/Thinai)",
+    "description": "Ancient grain with low glycemic index. Rich in protein, fiber and essential minerals. Perfect for modern diets.",
+    "price": "From $5",
+    "category": "millets",
+    "subcategory": "traditional_grains",
+    "origin": "Andhra Pradesh, Karnataka, India",
+    "unit": "kg",
+    "stock": 300,
+    "minOrderQuantity": 20
+  },
+  {
+    "name": "Basmati Rice",
+    "description": "Premium aged Basmati rice with distinctive aroma and long grains. The king of rice varieties.",
+    "price": "From $6",
+    "category": "rice",
+    "subcategory": "premium_varieties",
+    "origin": "Punjab, Haryana, India",
+    "unit": "kg",
+    "stock": 1000,
+    "minOrderQuantity": 50
+  },
+  {
+    "name": "Black Rice (Chakhao)",
+    "description": "Antioxidant-rich black rice from Manipur. Known as forbidden rice, packed with anthocyanins and nutrients.",
+    "price": "From $12",
+    "category": "rice",
+    "subcategory": "specialty_varieties",
+    "origin": "Manipur, India",
+    "unit": "kg",
+    "stock": 150,
+    "minOrderQuantity": 10
+  },
+  {
+    "name": "Red Rice",
+    "description": "Iron-rich red rice with nutty flavor and chewy texture. Unpolished and nutritionally superior.",
+    "price": "From $7",
+    "category": "rice",
+    "subcategory": "specialty_varieties",
+    "origin": "Kerala, Karnataka, India",
+    "unit": "kg",
+    "stock": 400,
+    "minOrderQuantity": 25
+  },
+  {
+    "name": "Cocopeat (Coir Pith)",
+    "description": "Premium quality coconut husk byproduct. Excellent growing medium for gardening, hydroponics and potting mix.",
+    "price": "From $2",
+    "category": "agricultural_products",
+    "subcategory": "growing_medium",
+    "origin": "Kerala, Tamil Nadu, India",
+    "unit": "kg",
+    "stock": 2000,
+    "minOrderQuantity": 100
+  },
+  {
+    "name": "Tamarind (Tamarindus indica)",
+    "description": "Premium quality tamarind pulp, essential for South Indian cuisine. Rich in tartaric acid and natural preservatives.",
+    "price": "From $5",
+    "category": "fruits",
+    "subcategory": "dried_fruits",
+    "origin": "Tamil Nadu, Karnataka, India",
+    "unit": "kg",
+    "stock": 300,
+    "minOrderQuantity": 20
+  }
+]

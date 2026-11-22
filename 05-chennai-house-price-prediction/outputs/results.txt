@@ -1,0 +1,9 @@
+Cross-validation R^2:
+  Linear Regression: 0.958
+  Random Forest: 0.980
+  Gradient Boosting: 0.988
+
+Best model: Gradient Boosting
+Test R^2: 0.989
+Test MAE: 3.0 lakh Rs
+Median price in test set: 102 lakh Rs

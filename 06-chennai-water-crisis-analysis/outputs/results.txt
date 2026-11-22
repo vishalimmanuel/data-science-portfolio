@@ -1,0 +1,27 @@
+Lowest storage by year (mcft):
+date
+2004       1
+2005     367
+2006    3556
+2007    3188
+2008    3553
+2009    2398
+2010    3944
+2011    5136
+2012    3198
+2013    1007
+2014    1741
+2015     272
+2016     723
+2017      71
+2018     869
+2019      26
+
+Corr(Oct-Dec rain, next year's lowest storage) = 0.24
+
+30-day-ahead forecast MAE (mcft), test period 2016-01-01 to 2019-05-18:
+  Baseline (same as today): 580
+  Ridge regression: 618
+  Random Forest (predicts change): 661
+
+Best: Baseline (same as today)
