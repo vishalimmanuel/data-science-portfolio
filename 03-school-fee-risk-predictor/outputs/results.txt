@@ -1,0 +1,17 @@
+NOTE: synthetic data.
+
+Cross-validation ROC-AUC:
+  Logistic Regression: 0.924
+  Random Forest: 0.898
+
+Best model: Logistic Regression
+Test ROC-AUC: 0.903
+
+              precision    recall  f1-score   support
+
+pays on time       0.85      0.83      0.84       139
+   pays late       0.78      0.79      0.78       101
+
+    accuracy                           0.82       240
+   macro avg       0.81      0.81      0.81       240
+weighted avg       0.82      0.82      0.82       240

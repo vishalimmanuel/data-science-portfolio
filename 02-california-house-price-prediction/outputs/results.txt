@@ -1,0 +1,9 @@
+Cross-validation R^2:
+  Linear Regression: 0.613
+  Random Forest: 0.772
+  Gradient Boosting: 0.754
+
+Best model: Random Forest
+Test R^2: 0.774
+Test MAE: $31,167
+Test RMSE: $46,509
